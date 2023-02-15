@@ -1,4 +1,4 @@
-  public class FirstJava
+  public class firstJava
     {
       public static void main(String[] args)
        {
